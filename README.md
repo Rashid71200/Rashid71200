@@ -35,7 +35,7 @@
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=Rashid71200&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashid71200&theme=radical&layout=compact) |
+| ![Rashid71200's github stats](https://github-readme-stats.vercel.app/api?username=Rashid71200&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashid71200&theme=radical&layout=compact) |
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rashid71200"></img>
 
@@ -45,19 +45,17 @@
 <!--   grid-snake -->
 ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
 
-<!--   skyline 
-<a href="https://skyline.github.com/BEPb/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
+
 
 <!--  2d history skills -->
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb&skills=JavaScript,Jupyter-Notebook,PHP,Shell,Python,C,Java,HTML" width="auto"></img>
 
 **📫 How to Reach me:**
 <p align="left">
-<a href="https://twitter.com/noname85071193" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/andrej-marinchenko-0445b7214" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
-<a href="mailto:andrej.marinchenko@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-<a href="https://api.whatsapp.com/send?phone=+375333333355" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
+<a href="https://twitter.com/@RashidAzaharul" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/azaharul-rashid-10555626a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
+<a href="mailto:andrej.azaharul.rashid2000@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="https://api.whatsapp.com/send?phone=+8801679402046" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
 </p>
 
 <div align="center">
@@ -102,14 +100,11 @@ counting of visitors to this page in this section started from May 8, 2022
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=BEPb/BEPb&type=Date)](https://star-history.com/#BEPb/BEPb&Date)
 
 
 
-### Profile Views
-counting of visitors to this page in this section started from June 12, 2022
 
-![](https://count.getloli.com/get/@BEPb.github.readme)
+
 </br>
 
 [MIT](LICENSE)
