@@ -45,11 +45,6 @@
 <!--   grid-snake -->
 ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
 
-
-
-<!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb&skills=JavaScript,Jupyter-Notebook,PHP,Shell,Python,C,Java,HTML" width="auto"></img>
-
 **📫 How to Reach me:**
 <p align="left">
 <a href="https://twitter.com/@RashidAzaharul" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
